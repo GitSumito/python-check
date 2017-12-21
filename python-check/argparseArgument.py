@@ -9,5 +9,5 @@ args = parser.parse_args()
 
 print(args.username)
 print(args.query_id)
-print(args.query-api-key)
+print(args.query_api_key)
 
